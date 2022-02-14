@@ -1,4 +1,4 @@
-import os, random, time, subprocess, threading, signal, random, string, uuid
+import os, random, time, subprocess, threading, signal, string, uuid
 
 clear = lambda: subprocess.call('cls||clear', shell=True)
 try:
